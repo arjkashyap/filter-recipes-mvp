@@ -1,0 +1,10 @@
+{
+  "id": "1",
+  "name": "egg bhuji",
+  "description": "easy egg bhuji (scrambled eggs) with onions and tomato",
+  "rating": "4.1",
+  "tier": "EASY",
+  "ingredients": "onions,tomatoes,eggs,ginger-garlic-paste",
+  "cover-image": "https:www.dummy-image.com",
+  "content": "md-recipe-md"
+}

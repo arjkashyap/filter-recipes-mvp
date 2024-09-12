@@ -1,0 +1,102 @@
+[
+  {
+    "id": "recipe_1",
+    "name": "egg bhuji",
+    "description": "easy egg bhuji (scrambled eggs) with onions and tomato",
+    "rating": "4.1",
+    "tier": "EASY",
+    "ingredients": "onions,tomatoes,eggs,ginger_garlic_paste",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_1.md"
+  },
+  {
+    "id": "recipe_2",
+    "name": "paneer butter masala",
+    "description": "creamy paneer curry in rich tomato and butter gravy",
+    "rating": "4.5",
+    "tier": "MEDIUM",
+    "ingredients": "paneer,butter,tomatoes,cream",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_2.md"
+  },
+  {
+    "id": "recipe_3",
+    "name": "aloo paratha",
+    "description": "stuffed flatbread with spiced mashed potatoes",
+    "rating": "4.3",
+    "tier": "EASY",
+    "ingredients": "potatoes,wheat flour,onions,ginger",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_3.md"
+  },
+  {
+    "id": "recipe_4",
+    "name": "dal tadka",
+    "description": "yellow lentils tempered with cumin, garlic, and red chili",
+    "rating": "4.2",
+    "tier": "EASY",
+    "ingredients": "yellow lentils,garlic,onions,tomatoes",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_4.md"
+  },
+  {
+    "id": "recipe_5",
+    "name": "veg pulao",
+    "description": "flavored rice cooked with vegetables and mild spices",
+    "rating": "4.4",
+    "tier": "EASY",
+    "ingredients": "rice,carrots,peas,beans,onions",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_5.md"
+  },
+  {
+    "id": "recipe_6",
+    "name": "kadhi pakora",
+    "description": "yogurt-based curry with gram flour fritters",
+    "rating": "4.3",
+    "tier": "EASY",
+    "ingredients": "yogurt,gram flour,onions,potatoes",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_6.md"
+  },
+  {
+    "id": "recipe_7",
+    "name": "chole bhature",
+    "description": "spicy chickpea curry served with fried bread",
+    "rating": "4.6",
+    "tier": "MEDIUM",
+    "ingredients": "chickpeas,onions,tomatoes,flour,yogurt",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_7.md"
+  },
+  {
+    "id": "recipe_8",
+    "name": "palak paneer",
+    "description": "spinach and paneer cooked in a creamy gravy",
+    "rating": "4.5",
+    "tier": "MEDIUM",
+    "ingredients": "spinach,paneer,cream,garlic",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_8.md"
+  },
+  {
+    "id": "recipe_9",
+    "name": "maggi",
+    "description": "instant noodles cooked with spices and vegetables",
+    "rating": "4.9",
+    "tier": "EASY",
+    "ingredients": "instant noodles,onions,carrots,peas",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_9.md"
+  },
+  {
+    "id": "recipe_10",
+    "name": "mix veg curry",
+    "description": "mixed vegetables cooked in a flavorful curry sauce",
+    "rating": "4.2",
+    "tier": "MEDIUM",
+    "ingredients": "carrots,peas,potatoes,beans,onions",
+    "cover-image": "https://www.dummy-image.com",
+    "content": "recipe_10.md"
+  }
+]
