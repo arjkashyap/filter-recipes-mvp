@@ -1,4 +1,4 @@
-package com.filter.recipe.mvp.filter.ecipe.mvp;
+package com.filter.recipe.mvp.filter.recipe.mvp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

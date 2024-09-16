@@ -1,4 +1,4 @@
-package com.filter.recipe.mvp.filter.ecipe.mvp.model;
+package com.filter.recipe.mvp.filter.recipe.mvp.model.DTO;
 
 public class RecipeDTO {
 

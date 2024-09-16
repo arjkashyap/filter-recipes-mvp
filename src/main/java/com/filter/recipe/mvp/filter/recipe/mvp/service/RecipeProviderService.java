@@ -1,9 +1,9 @@
-package com.filter.recipe.mvp.filter.ecipe.mvp.service;
+package com.filter.recipe.mvp.filter.recipe.mvp.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.filter.recipe.mvp.filter.ecipe.mvp.model.RecipeDTO;
+import com.filter.recipe.mvp.filter.recipe.mvp.model.DTO.RecipeDTO;
 import org.springframework.stereotype.Service;
 import java.util.List;
 

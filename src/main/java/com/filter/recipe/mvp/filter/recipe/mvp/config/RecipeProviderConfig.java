@@ -1,4 +1,4 @@
-package com.filter.recipe.mvp.filter.ecipe.mvp.config;
+package com.filter.recipe.mvp.filter.recipe.mvp.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.context.annotation.Bean;

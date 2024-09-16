@@ -1,4 +1,4 @@
-package com.filter.recipe.mvp.filter.ecipe.mvp.service;
+package com.filter.recipe.mvp.filter.recipe.mvp.service;
 
 
 import org.apache.commons.io.FileUtils;

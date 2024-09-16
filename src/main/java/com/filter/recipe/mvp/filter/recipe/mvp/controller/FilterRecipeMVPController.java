@@ -1,7 +1,7 @@
-package com.filter.recipe.mvp.filter.ecipe.mvp.controller;
+package com.filter.recipe.mvp.filter.recipe.mvp.controller;
 
-import com.filter.recipe.mvp.filter.ecipe.mvp.model.RecipeDTO;
-import com.filter.recipe.mvp.filter.ecipe.mvp.service.RecipeProviderService;
+import com.filter.recipe.mvp.filter.recipe.mvp.model.DTO.RecipeDTO;
+import com.filter.recipe.mvp.filter.recipe.mvp.service.RecipeProviderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
